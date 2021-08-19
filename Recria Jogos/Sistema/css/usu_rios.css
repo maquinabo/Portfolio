@@ -1,0 +1,514 @@
+.version.usu_rios /* version checker */
+{
+	color: #0000E0;
+	background-color: #76B8D0;
+}
+
+.html
+{
+	background: #DDDDC0 url("../images/papel-reciclado-banana-perola.jpg") no-repeat right bottom fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 867px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu11929
+{
+	width: 0.01px;
+	padding-bottom: 13px;
+	margin-right: -10000px;
+	margin-top: -47px;
+	margin-left: -256px;
+}
+
+#u11929
+{
+	z-index: 10;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 109px;
+	left: 411px;
+}
+
+#u11931-4
+{
+	z-index: 16;
+	position: relative;
+	width: 172px;
+	margin-right: -10000px;
+	margin-top: 203px;
+	left: 617px;
+}
+
+#u11926
+{
+	z-index: 20;
+	width: 382px;
+	height: 1px;
+	background-color: #939393;
+	border-radius: 28px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 240px;
+	left: 512px;
+}
+
+#u12226
+{
+	z-index: 21;
+	-webkit-transform: matrix(0.0349,0.9994,-0.9994,0.0349,668,-234);
+	-ms-transform: matrix(0.0349,0.9994,-0.9994,0.0349,668,-234);
+	transform: matrix(0.0349,0.9994,-0.9994,0.0349,668,-234);
+	position: relative;
+	width: 910px;
+	margin-right: -10000px;
+	margin-top: 234px;
+	left: -210px;
+}
+
+#menuu12228
+{
+	z-index: 23;
+	width: 160px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 278px;
+	left: 108px;
+}
+
+#u12257
+{
+	width: 160px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u12258
+{
+	width: 160px;
+	background-color: transparent;
+	padding-bottom: 56px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u12258:hover
+{
+	background-color: #999999;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12259
+{
+	height: 32px;
+	width: 160px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 28px;
+	background: url("../images/u12259.png") no-repeat 0px 0px;
+}
+
+#u12258.MuseMenuActive #u12259
+{
+	background: url("../images/u12259-a.png") no-repeat 0px 0px;
+}
+
+#u12239
+{
+	width: 160px;
+	background-color: transparent;
+	padding-bottom: 56px;
+	position: relative;
+	margin-right: -10000px;
+	top: 0px;
+	left: 0px;
+}
+
+#u12239.MuseMenuActive
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12241-4
+{
+	position: relative;
+	margin-right: -10000px;
+	top: 28px;
+	left: 0px;
+}
+
+#u12241-4_clip
+{
+	overflow: hidden;
+	width: 160px;
+	height: 32px;
+	vertical-align: top;
+}
+
+#u12241-4_img
+{
+	display: block;
+}
+
+#u12244
+{
+	width: 160px;
+	background-color: transparent;
+	padding-bottom: 56px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u12244:hover
+{
+	background-color: #999999;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12246
+{
+	height: 32px;
+	width: 160px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 28px;
+	background: url("../images/u12246.png") no-repeat 0px 0px;
+}
+
+#u12244.MuseMenuActive #u12246
+{
+	background: url("../images/u12246-a.png") no-repeat 0px 0px;
+}
+
+#u12265
+{
+	width: 160px;
+	background-color: transparent;
+	padding-bottom: 55px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u12265:hover
+{
+	background-color: #999999;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12267
+{
+	height: 33px;
+	width: 160px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 28px;
+	background: url("../images/u12267.png") no-repeat 0px 0px;
+}
+
+#u12265.MuseMenuActive #u12267
+{
+	background: url("../images/u12267-a.png") no-repeat 0px 0px;
+}
+
+#u12232
+{
+	width: 160px;
+	background-color: transparent;
+	padding-bottom: 55px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u12232:hover
+{
+	background-color: #999999;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12234
+{
+	height: 33px;
+	width: 160px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 28px;
+	background: url("../images/u12234.png") no-repeat 0px 0px;
+}
+
+#u12232.MuseMenuActive #u12234
+{
+	background: url("../images/u12234-a.png") no-repeat 0px 0px;
+}
+
+#u12272
+{
+	width: 160px;
+	background-color: transparent;
+	padding-bottom: 56px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u12272:hover
+{
+	background-color: #999999;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12274
+{
+	height: 32px;
+	width: 160px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 28px;
+	background: url("../images/u12274.png") no-repeat 0px 0px;
+}
+
+#u12272.MuseMenuActive #u12274
+{
+	background: url("../images/u12274-a.png") no-repeat 0px 0px;
+}
+
+#u12236,#u12243,#u12264,#u12229,#u12271,#u12250
+{
+	width: 160px;
+	background-color: transparent;
+	margin-top: 2px;
+	position: relative;
+}
+
+#u12251
+{
+	width: 160px;
+	background-color: transparent;
+	padding-bottom: 55px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u12251:hover
+{
+	background-color: #999999;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12258:active,#u12244:active,#u12265:active,#u12232:active,#u12272:active,#u12251:active
+{
+	background-color: #6B6B6B;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12252
+{
+	height: 33px;
+	width: 160px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 28px;
+	background: url("../images/u12252.png") no-repeat 0px 0px;
+}
+
+#u12251.MuseMenuActive #u12252
+{
+	background: url("../images/u12252-a.png") no-repeat 0px 0px;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u12278
+{
+	z-index: 60;
+	width: 216px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 89px;
+	left: 92px;
+         height:200px;
+}
+
+#u12278_img
+{
+	padding-bottom: 27px;
+}
+
+#u12280
+{
+	z-index: 62;
+	width: 459px;
+	height: 560px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 240px;
+	left: 476px;
+        overflow: auto;
+}
+
+.ie #u12280
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u11984
+{
+	z-index: 2;
+	-webkit-transform: matrix(0.0698,0.9976,-0.9976,0.0698,349,-308);
+	-ms-transform: matrix(0.0698,0.9976,-0.9976,0.0698,349,-308);
+	transform: matrix(0.0698,0.9976,-0.9976,0.0698,349,-308);
+	position: relative;
+	width: 679px;
+	margin-right: -10000px;
+	margin-top: 443px;
+	left: 475px;
+}
+
+#ppu11977
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	margin-left: 892px;
+}
+
+#pu11977
+{
+	width: 0.01px;
+}
+
+#u11977
+{
+	z-index: 4;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -8px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u11983-4
+{
+	z-index: 6;
+	-webkit-transform: matrix(0.9816,-0.1908,0.1908,0.9816,-3,17);
+	-ms-transform: matrix(0.9816,-0.1908,0.1908,0.9816,-3,17);
+	transform: matrix(0.9816,-0.1908,0.1908,0.9816,-3,17);
+	position: relative;
+	width: 179px;
+	margin-right: -10000px;
+	margin-top: 71px;
+	left: 17px;
+}
+
+#u11932
+{
+	z-index: 12;
+	-webkit-transform: matrix(0.2419,0.9703,-0.9703,0.2419,127,-66);
+	-ms-transform: matrix(0.2419,0.9703,-0.9703,0.2419,127,-66);
+	transform: matrix(0.2419,0.9703,-0.9703,0.2419,127,-66);
+	margin-left: 5px;
+	margin-top: 304px;
+	margin-bottom: 66px;
+	position: relative;
+}
+
+#u11927
+{
+	z-index: 14;
+	-webkit-transform: matrix(0.9986,-0.0523,0.0523,0.9986,-7,36);
+	-ms-transform: matrix(0.9986,-0.0523,0.0523,0.9986,-7,36);
+	transform: matrix(0.9986,-0.0523,0.0523,0.9986,-7,36);
+	position: fixed;
+	top: 838px;
+	left: -198px;
+}
+
+#u11931-4_img,#u12226_img,#u11984_img,#u11983-4_img,#u11932_img,#u11927_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+#divLista{
+z-index: 100;
+	width: 415px;
+	height: 528px;
+
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -800px;
+	left: 450px;
+        overflow: auto;
+    
+}
+.tipografia{
+    font-size: 9pt;
+    font-weight: bold;
+}
+#mi1
+{
+	z-index: 154;
+	position: relative;
+	width: 90px;
+	margin-right: -10000px;
+	left: 0px;
+        top:-55px;
+        
+}

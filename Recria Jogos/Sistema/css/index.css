@@ -1,0 +1,403 @@
+.version.index /* version checker */
+{
+	color: #0000FB;
+	background-color: #059C4B;
+}
+
+.html
+{
+	background: #DDDDC0 url("../images/papel-reciclado-banana-perola.jpg") no-repeat right bottom fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 867px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu8652
+{
+	width: 0.01px;
+	padding-bottom: 13px;
+	margin-right: -10000px;
+	margin-top: -47px;
+	margin-left: -256px;
+}
+
+#u8652
+{
+	z-index: 2;
+	-webkit-transform: matrix(0.0349,0.9994,-0.9994,0.0349,668,-234);
+	-ms-transform: matrix(0.0349,0.9994,-0.9994,0.0349,668,-234);
+	transform: matrix(0.0349,0.9994,-0.9994,0.0349,668,-234);
+	position: relative;
+	width: 910px;
+	margin-right: -10000px;
+	margin-top: 234px;
+	left: -210px;
+}
+
+#menuu8657
+{
+	z-index: 4;
+	width: 160px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 278px;
+	left: 108px;
+}
+
+#u8826
+{
+	width: 160px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u8829
+{
+	width: 160px;
+	background-color: transparent;
+	padding-bottom: 56px;
+	position: relative;
+	margin-right: -10000px;
+	top: 0px;
+	left: 0px;
+}
+
+#u8829.MuseMenuActive
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u8831-4
+{
+	position: relative;
+	margin-right: -10000px;
+	top: 28px;
+	left: 0px;
+}
+
+#u8831-4_clip
+{
+	overflow: hidden;
+	width: 160px;
+	height: 32px;
+	vertical-align: top;
+}
+
+#u8831-4_img
+{
+	display: block;
+}
+
+#u12046
+{
+	width: 160px;
+	background-color: transparent;
+	padding-bottom: 56px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u12046:hover
+{
+	background-color: #999999;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12048
+{
+	height: 32px;
+	width: 160px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 28px;
+	background: url("../images/u12048.png") no-repeat 0px 0px;
+}
+
+#u12046.MuseMenuActive #u12048
+{
+	background: url("../images/u12048-a.png") no-repeat 0px 0px;
+}
+
+#u8659
+{
+	width: 160px;
+	background-color: transparent;
+	padding-bottom: 56px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u8659:hover
+{
+	background-color: #999999;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u8661
+{
+	height: 32px;
+	width: 160px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 28px;
+	background: url("../images/u8661.png") no-repeat 0px 0px;
+}
+
+#u8659.MuseMenuActive #u8661
+{
+	background: url("../images/u8661-a.png") no-repeat 0px 0px;
+}
+
+#u11050
+{
+	width: 160px;
+	background-color: transparent;
+	padding-bottom: 55px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u11050:hover
+{
+	background-color: #999999;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u11052
+{
+	height: 33px;
+	width: 160px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 28px;
+	background: url("../images/u11052.png") no-repeat 0px 0px;
+}
+
+#u11050.MuseMenuActive #u11052
+{
+	background: url("../images/u11052-a.png") no-repeat 0px 0px;
+}
+
+#u11366
+{
+	width: 160px;
+	background-color: transparent;
+	padding-bottom: 55px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u11366:hover
+{
+	background-color: #999999;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u11368
+{
+	height: 33px;
+	width: 160px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 28px;
+	background: url("../images/u11368.png") no-repeat 0px 0px;
+}
+
+#u11366.MuseMenuActive #u11368
+{
+	background: url("../images/u11368-a.png") no-repeat 0px 0px;
+}
+
+#u10895
+{
+	width: 160px;
+	background-color: transparent;
+	padding-bottom: 56px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u10895:hover
+{
+	background-color: #999999;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u10897
+{
+	height: 32px;
+	width: 160px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 28px;
+	background: url("../images/u10897.png") no-repeat 0px 0px;
+}
+
+#u10895.MuseMenuActive #u10897
+{
+	background: url("../images/u10897-a.png") no-repeat 0px 0px;
+}
+
+#u12045,#u8658,#u11049,#u11363,#u10894,#u11121
+{
+	width: 160px;
+	background-color: transparent;
+	margin-top: 2px;
+	position: relative;
+}
+
+#u11122
+{
+	width: 160px;
+	background-color: transparent;
+	padding-bottom: 55px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u11122:hover
+{
+	background-color: #999999;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12046:active,#u8659:active,#u11050:active,#u11366:active,#u10895:active,#u11122:active
+{
+	background-color: #6B6B6B;
+	width: 160px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u11123
+{
+	height: 33px;
+	width: 160px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 28px;
+	background: url("../images/u11123.png") no-repeat 0px 0px;
+}
+
+#u11122.MuseMenuActive #u11123
+{
+	background: url("../images/u11123-a.png") no-repeat 0px 0px;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u8650
+{
+	z-index: 41;
+	width: 216px;
+	background-color:transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 89px;
+	left: 92px;
+        height:200px;
+}
+
+#u8650_img
+{
+	padding-bottom: 27px;
+}
+
+#u10828
+{
+	z-index: 45;
+	width: 224px;
+	height: 148px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 102px;
+}
+
+.ie #u10828
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u8706
+{
+	z-index: 43;
+	-webkit-transform: matrix(0.9986,-0.0523,0.0523,0.9986,-7,36);
+	-ms-transform: matrix(0.9986,-0.0523,0.0523,0.9986,-7,36);
+	transform: matrix(0.9986,-0.0523,0.0523,0.9986,-7,36);
+	position: fixed;
+	top: 841px;
+	left: -198px;
+}
+
+#u8652_img,#u8706_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
+#mi1
+{
+	z-index: 154;
+	position: relative;
+	width: 90px;
+	margin-right: -10000px;
+	left: 0px;
+        top:-55px;
+        
+}

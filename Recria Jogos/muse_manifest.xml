@@ -1,0 +1,902 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="recriajogos.com.br" resolutions="1x" timestamp="1481299239662">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="novidades.css" crc="205328081" ref="novidades"/>
+    <file name="sobre-os-personagens.css" crc="233625785" ref="sobre-os-personagens"/>
+    <file name="sobre-os-jogos.css" crc="161862175" ref="sobre-os-jogos"/>
+    <file name="formcadastrar.css" crc="264146061" ref="formcadastrar"/>
+    <file name="personagenss.css" crc="459898083" ref="personagenss"/>
+    <file name="formlogin.css" crc="3921562316" ref="formlogin"/>
+    <file name="index.css" crc="399675041" ref="index"/>
+    <file name="jogos.css" crc="3995313599" ref="jogos"/>
+    <file name="personagens.css" crc="4266480481" ref="personagens"/>
+    <file name="compras.css" crc="4000576010" ref="compras"/>
+    <file name="jogoss.css" crc="3835511101" ref="jogoss"/>
+    <file name="perfiljogo.css" crc="4140824465" ref="perfiljogo"/>
+    <file name="sobre-n_s.css" crc="342379915" ref="sobre-nós"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index:jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="museutils.js" crc="183364071" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index:jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index:jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index:jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="pie.js" crc="3827607177" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index:jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index:jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index:jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index:jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="webpro.js" crc="3803554875" ref="phone>formcadastrar:phone>formlogin:phone>index:formcadastrar:formlogin:personagens:index:personagenss"/>
+    <file name="form_check.php" crc="277267350" ref="phone>formcadastrar:phone>formlogin:formcadastrar:formlogin"/>
+    <file name="form_throttle.php" crc="3908387251" ref="phone>formcadastrar:phone>formlogin:formcadastrar:formlogin"/>
+    <file name="form_process.php" crc="24249335" ref="phone>formcadastrar:phone>formlogin:formcadastrar:formlogin"/>
+    <file name="form-u30993.php" crc="274103105" ref="phone>formcadastrar"/>
+    <file name="form-u31211.php" crc="3922779083" ref="phone>formlogin"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="phone>index:personagens:index:personagenss"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="phone>index:personagens:index:personagenss"/>
+    <file name="touchswipe.js" crc="4038331989" ref="phone>index:personagens:index:personagenss"/>
+    <file name="museredirect.js" crc="40941066" ref="jogos:formcadastrar:formlogin:compras:perfiljogo:sobre-nós:index"/>
+    <file name="form-u10475.php" crc="4056452802" ref="formcadastrar"/>
+    <file name="form-u11726.php" crc="253210850" ref="formlogin"/>
+  </folder>
+  <folder name="images">
+    <file name="jogos-favicon.ico" crc="4050929832" ref="phone>jogos"/>
+    <file name="papel-reciclado-banana-perola.jpg" crc="322750176" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index:jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="papernovo.png" crc="90746216" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index:jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="facebook_47004-ieu25359-fr-ieu32504-fr.png" crc="239411070" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index"/>
+    <file name="facebook_47004-ieu25359-fr.png" crc="239411070" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index"/>
+    <file name="twitter_46983.png" crc="368249976" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index"/>
+    <file name="youtube_47003.png" crc="136881937" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index"/>
+    <file name="wordpress_icon-iconscom_53600.png" crc="3877352924" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index"/>
+    <file name="papernovo-u28846.png" crc="4252975834" ref="phone>jogos"/>
+    <file name="logo mais novo que tudo23-u28905.png" crc="4036883120" ref="phone>jogos"/>
+    <file name="logo mais novo que tudo23-u28907.png" crc="138340804" ref="phone>jogos"/>
+    <file name="u28966-4.png" crc="3830336904" ref="phone>jogos"/>
+    <file name="u28967-4.png" crc="429738962" ref="phone>jogos"/>
+    <file name="folha com corte.png" crc="322640642" seo="true" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index:jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="tarde de segunda 007-crop-u32443.jpg" crc="110776643" ref="phone>jogos"/>
+    <file name="television-png-29-u28820.png" crc="172626812" ref="phone>jogos"/>
+    <file name="bcakzngzi.png" crc="121472523" seo="true" ref="phone>jogos:jogos:perfiljogo:jogoss"/>
+    <file name="u28824-5.png" crc="4229019105" ref="phone>jogos"/>
+    <file name="u28825-4.png" crc="3971816307" ref="phone>jogos"/>
+    <file name="u28826-4.png" crc="4152302139" ref="phone>jogos"/>
+    <file name="u28827-4.png" crc="94952057" ref="phone>jogos"/>
+    <file name="u28828-4.png" crc="360218395" ref="phone>jogos"/>
+    <file name="download.jpg" crc="3906755480" ref="phone>jogos"/>
+    <file name="folha com corte-u29014.png" crc="4080113720" ref="phone>jogos"/>
+    <file name="brushe-balao-de-fala-pfs-u29016.png" crc="4142023686" ref="phone>jogos"/>
+    <file name="leão final-u29019.png" crc="3127108" ref="phone>jogos"/>
+    <file name="tablet_png8592-u28839.png" crc="348354170" ref="phone>jogos"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>jogos:phone>sobre-nós:phone>compras:phone>formcadastrar:phone>formlogin:phone>perfiljogo:phone>index:jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="u31744.png" crc="4062206254" ref="phone>jogos"/>
+    <file name="u31744-a.png" crc="4062206254" ref="phone>jogos"/>
+    <file name="u28937.png" crc="358766192" ref="phone>jogos"/>
+    <file name="u28937-a.png" crc="358766192" ref="phone>jogos"/>
+    <file name="u32326-4-a.png" crc="73201312" ref="phone>jogos"/>
+    <file name="u28949.png" crc="397668405" ref="phone>jogos"/>
+    <file name="u28949-a.png" crc="397668405" ref="phone>jogos"/>
+    <file name="u31797.png" crc="301280562" ref="phone>jogos"/>
+    <file name="u31797-a.png" crc="301280562" ref="phone>jogos"/>
+    <file name="u28881.png" crc="3836955746" ref="phone>jogos"/>
+    <file name="u28881-a.png" crc="3836955746" ref="phone>jogos"/>
+    <file name="u32371-4-a.png" crc="4251674368" ref="phone>jogos"/>
+    <file name="u28893.png" crc="269548207" ref="phone>jogos"/>
+    <file name="u28893-a.png" crc="269548207" ref="phone>jogos"/>
+    <file name="paper10-u32440.png" crc="329581989" ref="phone>jogos"/>
+    <file name="papernovo-u30523.png" crc="4252975834" ref="phone>sobre-nós"/>
+    <file name="logo mais novo que tudo23-u30582.png" crc="4036883120" ref="phone>sobre-nós"/>
+    <file name="logo mais novo que tudo23-u30584.png" crc="138340804" ref="phone>sobre-nós"/>
+    <file name="u30643-4.png" crc="3830336904" ref="phone>sobre-nós"/>
+    <file name="u30644-4.png" crc="429738962" ref="phone>sobre-nós"/>
+    <file name="4-u30520.png" crc="327759006" ref="phone>sobre-nós"/>
+    <file name="u30522-5.png" crc="4015199786" ref="phone>sobre-nós"/>
+    <file name="sem título-1-u30505.png" crc="192273979" ref="phone>sobre-nós"/>
+    <file name="folha com corte-u30755.png" crc="4080113720" ref="phone>sobre-nós"/>
+    <file name="brushe-balao-de-fala-pfs-u30757.png" crc="4142023686" ref="phone>sobre-nós"/>
+    <file name="leão final-u30760.png" crc="3127108" ref="phone>sobre-nós"/>
+    <file name="tablet_png8592-u30513.png" crc="37004798" ref="phone>sobre-nós"/>
+    <file name="u31647.png" crc="4062206254" ref="phone>sobre-nós"/>
+    <file name="u31647-a.png" crc="4062206254" ref="phone>sobre-nós"/>
+    <file name="u30635-4-a.png" crc="358766192" ref="phone>sobre-nós"/>
+    <file name="u32245.png" crc="73201312" ref="phone>sobre-nós"/>
+    <file name="u32245-a.png" crc="73201312" ref="phone>sobre-nós"/>
+    <file name="u30611.png" crc="397668405" ref="phone>sobre-nós"/>
+    <file name="u30611-a.png" crc="397668405" ref="phone>sobre-nós"/>
+    <file name="u31758.png" crc="301280562" ref="phone>sobre-nós"/>
+    <file name="u31758-a.png" crc="301280562" ref="phone>sobre-nós"/>
+    <file name="u30528-4-a.png" crc="3836955746" ref="phone>sobre-nós"/>
+    <file name="u32336.png" crc="4251674368" ref="phone>sobre-nós"/>
+    <file name="u32336-a.png" crc="4251674368" ref="phone>sobre-nós"/>
+    <file name="u30551.png" crc="269548207" ref="phone>sobre-nós"/>
+    <file name="u30551-a.png" crc="269548207" ref="phone>sobre-nós"/>
+    <file name="paper10-u30752.png" crc="329581989" ref="phone>sobre-nós"/>
+    <file name="compras-favicon.ico" crc="475442630" ref="phone>compras"/>
+    <file name="papernovo-u30801.png" crc="4252975834" ref="phone>compras"/>
+    <file name="logo mais novo que tudo23-u30860.png" crc="4036883120" ref="phone>compras"/>
+    <file name="u30921-4.png" crc="3830336904" ref="phone>compras"/>
+    <file name="u30922-4.png" crc="429738962" ref="phone>compras"/>
+    <file name="logo mais novo que tudo23-u30862.png" crc="138340804" ref="phone>compras"/>
+    <file name="u31771.png" crc="301280562" ref="phone>compras"/>
+    <file name="u31771-a.png" crc="301280562" ref="phone>compras"/>
+    <file name="u30827.png" crc="3836955746" ref="phone>compras"/>
+    <file name="u30827-a.png" crc="3836955746" ref="phone>compras"/>
+    <file name="u32350.png" crc="4251674368" ref="phone>compras"/>
+    <file name="u32350-a.png" crc="4251674368" ref="phone>compras"/>
+    <file name="u30859-4-a.png" crc="269548207" ref="phone>compras"/>
+    <file name="u31637.png" crc="4062206254" ref="phone>compras"/>
+    <file name="u31637-a.png" crc="4062206254" ref="phone>compras"/>
+    <file name="u30867.png" crc="358766192" ref="phone>compras"/>
+    <file name="u30867-a.png" crc="358766192" ref="phone>compras"/>
+    <file name="u32242.png" crc="73201312" ref="phone>compras"/>
+    <file name="u32242-a.png" crc="73201312" ref="phone>compras"/>
+    <file name="u30905-4-a.png" crc="397668405" ref="phone>compras"/>
+    <file name="pacotes4.jpg" crc="4243285619" seo="true" ref="phone>compras:compras"/>
+    <file name="4-u30798.png" crc="3932778017" ref="phone>compras"/>
+    <file name="u30800-4.png" crc="10381172" ref="phone>compras"/>
+    <file name="folha com corte-u30974.png" crc="4080113720" ref="phone>compras"/>
+    <file name="brushe-balao-de-fala-pfs-u30976.png" crc="4142023686" ref="phone>compras"/>
+    <file name="leão final-u30979.png" crc="3127108" ref="phone>compras"/>
+    <file name="tablet_png8592-u30792.png" crc="348354170" ref="phone>compras"/>
+    <file name="paper10-u30971.png" crc="329581989" ref="phone>compras"/>
+    <file name="papernovo-u31023.png" crc="4252975834" ref="phone>formcadastrar"/>
+    <file name="logo mais novo que tudo23-u31082.png" crc="4036883120" ref="phone>formcadastrar"/>
+    <file name="5-u31014.png" crc="3829988799" ref="phone>formcadastrar"/>
+    <file name="pencil-23648_960_720-u31016.png" crc="4133224687" ref="phone>formcadastrar"/>
+    <file name="u31018-4.png" crc="3932593245" ref="phone>formcadastrar"/>
+    <file name="logo mais novo que tudo23-u31084.png" crc="138340804" ref="phone>formcadastrar"/>
+    <file name="u31722.png" crc="4062206254" ref="phone>formcadastrar"/>
+    <file name="u31722-a.png" crc="4062206254" ref="phone>formcadastrar"/>
+    <file name="u31133.png" crc="358766192" ref="phone>formcadastrar"/>
+    <file name="u31133-a.png" crc="358766192" ref="phone>formcadastrar"/>
+    <file name="u32312.png" crc="73201312" ref="phone>formcadastrar"/>
+    <file name="u32312-a.png" crc="73201312" ref="phone>formcadastrar"/>
+    <file name="u31089.png" crc="397668405" ref="phone>formcadastrar"/>
+    <file name="u31089-a.png" crc="397668405" ref="phone>formcadastrar"/>
+    <file name="u31785.png" crc="301280562" ref="phone>formcadastrar"/>
+    <file name="u31785-a.png" crc="301280562" ref="phone>formcadastrar"/>
+    <file name="u31073.png" crc="3836955746" ref="phone>formcadastrar"/>
+    <file name="u31073-a.png" crc="3836955746" ref="phone>formcadastrar"/>
+    <file name="u32366.png" crc="4251674368" ref="phone>formcadastrar"/>
+    <file name="u32366-a.png" crc="4251674368" ref="phone>formcadastrar"/>
+    <file name="u31058.png" crc="269548207" ref="phone>formcadastrar"/>
+    <file name="u31058-a.png" crc="269548207" ref="phone>formcadastrar"/>
+    <file name="caderno-u30989.png" crc="3981540247" ref="phone>formcadastrar"/>
+    <file name="u31000.png" crc="4248664749" ref="phone>formcadastrar"/>
+    <file name="u31000-ferr.png" crc="3978535687" ref="phone>formcadastrar"/>
+    <file name="u31009.png" crc="374029378" ref="phone>formcadastrar"/>
+    <file name="u31009-ferr.png" crc="4100013457" ref="phone>formcadastrar"/>
+    <file name="u31012-fss.png" crc="3824908980" ref="phone>formcadastrar"/>
+    <file name="u31011-17.png" crc="3963776686" ref="phone>formcadastrar"/>
+    <file name="u31011-17-r.png" crc="3811946744" ref="phone>formcadastrar"/>
+    <file name="u31011-17-m.png" crc="4138478491" ref="phone>formcadastrar"/>
+    <file name="u31011-17-fs.png" crc="4129136537" ref="phone>formcadastrar"/>
+    <file name="u30995.png" crc="267296209" ref="phone>formcadastrar"/>
+    <file name="u30995-ferr.png" crc="3887269863" ref="phone>formcadastrar"/>
+    <file name="u31005.png" crc="4289719015" ref="phone>formcadastrar"/>
+    <file name="u31005-ferr.png" crc="4265784358" ref="phone>formcadastrar"/>
+    <file name="u31143-4.png" crc="3830336904" ref="phone>formcadastrar"/>
+    <file name="u31144-4-a.png" crc="429738962" ref="phone>formcadastrar"/>
+    <file name="p993518-u30991.png" crc="135126385" ref="phone>formcadastrar"/>
+    <file name="folha com corte-u31195.png" crc="4080113720" ref="phone>formcadastrar"/>
+    <file name="brushe-balao-de-fala-pfs-u31197.png" crc="4142023686" ref="phone>formcadastrar"/>
+    <file name="leão final-u31200.png" crc="3127108" ref="phone>formcadastrar"/>
+    <file name="paper10-u31192.png" crc="329581989" ref="phone>formcadastrar"/>
+    <file name="papernovo-u31231.png" crc="4252975834" ref="phone>formlogin"/>
+    <file name="logo mais novo que tudo23-u31290.png" crc="4036883120" ref="phone>formlogin"/>
+    <file name="5-u31224.png" crc="3829988799" ref="phone>formlogin"/>
+    <file name="u31226-4.png" crc="3948222258" ref="phone>formlogin"/>
+    <file name="pencil-23648_960_720-u31357.png" crc="4133224687" ref="phone>formlogin"/>
+    <file name="logo mais novo que tudo23-u31292.png" crc="138340804" ref="phone>formlogin"/>
+    <file name="u31660.png" crc="4062206254" ref="phone>formlogin"/>
+    <file name="u31660-a.png" crc="4062206254" ref="phone>formlogin"/>
+    <file name="u31341.png" crc="358766192" ref="phone>formlogin"/>
+    <file name="u31341-a.png" crc="358766192" ref="phone>formlogin"/>
+    <file name="u32259.png" crc="73201312" ref="phone>formlogin"/>
+    <file name="u32259-a.png" crc="73201312" ref="phone>formlogin"/>
+    <file name="u31305.png" crc="397668405" ref="phone>formlogin"/>
+    <file name="u31305-a.png" crc="397668405" ref="phone>formlogin"/>
+    <file name="u31668.png" crc="301280562" ref="phone>formlogin"/>
+    <file name="u31668-a.png" crc="301280562" ref="phone>formlogin"/>
+    <file name="u31273.png" crc="3836955746" ref="phone>formlogin"/>
+    <file name="u31273-a.png" crc="3836955746" ref="phone>formlogin"/>
+    <file name="u32266.png" crc="4251674368" ref="phone>formlogin"/>
+    <file name="u32266-a.png" crc="4251674368" ref="phone>formlogin"/>
+    <file name="u31287.png" crc="269548207" ref="phone>formlogin"/>
+    <file name="u31287-a.png" crc="269548207" ref="phone>formlogin"/>
+    <file name="u31351-4-a.png" crc="3830336904" ref="phone>formlogin"/>
+    <file name="u31352-4.png" crc="429738962" ref="phone>formlogin"/>
+    <file name="bloco-de-notas_2252413-u31209.png" crc="3889443018" ref="phone>formlogin"/>
+    <file name="u31216.png" crc="374029378" ref="phone>formlogin"/>
+    <file name="u31216-ferr.png" crc="4100013457" ref="phone>formlogin"/>
+    <file name="u31212-fss.png" crc="3824908980" ref="phone>formlogin"/>
+    <file name="u31213-17.png" crc="3963776686" ref="phone>formlogin"/>
+    <file name="u31213-17-r.png" crc="3811946744" ref="phone>formlogin"/>
+    <file name="u31213-17-m.png" crc="4138478491" ref="phone>formlogin"/>
+    <file name="u31213-17-fs.png" crc="4129136537" ref="phone>formlogin"/>
+    <file name="u31220.png" crc="267296209" ref="phone>formlogin"/>
+    <file name="u31220-ferr.png" crc="3887269863" ref="phone>formlogin"/>
+    <file name="p993518-u31355.png" crc="135126385" ref="phone>formlogin"/>
+    <file name="folha com corte-u31411.png" crc="4080113720" ref="phone>formlogin"/>
+    <file name="brushe-balao-de-fala-pfs-u31413.png" crc="4142023686" ref="phone>formlogin"/>
+    <file name="leão final-u31416.png" crc="3127108" ref="phone>formlogin"/>
+    <file name="paper10-u31404.png" crc="329581989" ref="phone>formlogin"/>
+    <file name="papernovo-u31451.png" crc="4252975834" ref="phone>perfiljogo"/>
+    <file name="logo mais novo que tudo23-u31510.png" crc="4036883120" ref="phone>perfiljogo"/>
+    <file name="logo mais novo que tudo23-u31512.png" crc="138340804" ref="phone>perfiljogo"/>
+    <file name="u31571-4.png" crc="3830336904" ref="phone>perfiljogo"/>
+    <file name="u31572-4.png" crc="429738962" ref="phone>perfiljogo"/>
+    <file name="television-png-29-u31438.png" crc="112448755" ref="phone>perfiljogo"/>
+    <file name="folha com corte-u31618.png" crc="4080113720" ref="phone>perfiljogo"/>
+    <file name="brushe-balao-de-fala-pfs-u31620.png" crc="4142023686" ref="phone>perfiljogo"/>
+    <file name="leão final-u31623.png" crc="3127108" ref="phone>perfiljogo"/>
+    <file name="tablet_png8592-u31444.png" crc="348354170" ref="phone>perfiljogo"/>
+    <file name="u31779.png" crc="4062206254" ref="phone>perfiljogo"/>
+    <file name="u31779-a.png" crc="4062206254" ref="phone>perfiljogo"/>
+    <file name="u31542.png" crc="358766192" ref="phone>perfiljogo"/>
+    <file name="u31542-a.png" crc="358766192" ref="phone>perfiljogo"/>
+    <file name="u32359.png" crc="73201312" ref="phone>perfiljogo"/>
+    <file name="u32359-a.png" crc="73201312" ref="phone>perfiljogo"/>
+    <file name="u31568.png" crc="397668405" ref="phone>perfiljogo"/>
+    <file name="u31568-a.png" crc="397668405" ref="phone>perfiljogo"/>
+    <file name="u31731.png" crc="301280562" ref="phone>perfiljogo"/>
+    <file name="u31731-a.png" crc="301280562" ref="phone>perfiljogo"/>
+    <file name="u31464.png" crc="3836955746" ref="phone>perfiljogo"/>
+    <file name="u31464-a.png" crc="3836955746" ref="phone>perfiljogo"/>
+    <file name="u32318.png" crc="4251674368" ref="phone>perfiljogo"/>
+    <file name="u32318-a.png" crc="4251674368" ref="phone>perfiljogo"/>
+    <file name="u31502.png" crc="269548207" ref="phone>perfiljogo"/>
+    <file name="u31502-a.png" crc="269548207" ref="phone>perfiljogo"/>
+    <file name="paper10-u31615.png" crc="329581989" ref="phone>perfiljogo"/>
+    <file name="papernovo-u27757.png" crc="4252975834" ref="phone>index"/>
+    <file name="logo mais novo que tudo23-u27823.png" crc="4036883120" ref="phone>index"/>
+    <file name="u27891-4.png" crc="3830336904" ref="phone>index"/>
+    <file name="u27892-4.png" crc="429738962" ref="phone>index"/>
+    <file name="logo mais novo que tudo23-u27825.png" crc="138340804" ref="phone>index"/>
+    <file name="u31765-4-a.png" crc="301280562" ref="phone>index"/>
+    <file name="u27804.png" crc="3836955746" ref="phone>index"/>
+    <file name="u27804-a.png" crc="3836955746" ref="phone>index"/>
+    <file name="u32345.png" crc="4251674368" ref="phone>index"/>
+    <file name="u32345-a.png" crc="4251674368" ref="phone>index"/>
+    <file name="u27797.png" crc="269548207" ref="phone>index"/>
+    <file name="u27797-a.png" crc="269548207" ref="phone>index"/>
+    <file name="u31674-4-a.png" crc="4062206254" ref="phone>index"/>
+    <file name="u27890.png" crc="358766192" ref="phone>index"/>
+    <file name="u27890-a.png" crc="358766192" ref="phone>index"/>
+    <file name="u32274.png" crc="73201312" ref="phone>index"/>
+    <file name="u32274-a.png" crc="73201312" ref="phone>index"/>
+    <file name="u27881.png" crc="397668405" ref="phone>index"/>
+    <file name="u27881-a.png" crc="397668405" ref="phone>index"/>
+    <file name="jogo-u27749-a-fr.jpg" crc="3858177703" ref="phone>index:index"/>
+    <file name="jogotb.jpg" crc="319966441" ref="phone>index:index"/>
+    <file name="bagulho1-u27731.png" crc="3892029966" ref="phone>index"/>
+    <file name="telainicio-ieu27733-fr.png" crc="3841528800" ref="phone>index:index"/>
+    <file name="telainicio.jpg" crc="425981961" ref="phone>index:index"/>
+    <file name="alfiler.png" crc="172402850" seo="true" ref="phone>index:index"/>
+    <file name="finaljogo-ieu27734-fr.png" crc="4082206291" ref="phone>index:index"/>
+    <file name="finaljogo.jpg" crc="224204996" ref="phone>index:index"/>
+    <file name="jogo-ieu27735-fr.png" crc="393448383" ref="phone>index:index"/>
+    <file name="jogo.jpg" crc="344916679" ref="phone>index:index"/>
+    <file name="u27736-4.png" crc="4224849845" ref="phone>index"/>
+    <file name="sem título-1-u27727.png" crc="480829068" ref="phone>index"/>
+    <file name="u27741-9.png" crc="4220857264" ref="phone>index"/>
+    <file name="4-u27729.png" crc="402733289" ref="phone>index"/>
+    <file name="u27740-5.png" crc="4136119328" ref="phone>index"/>
+    <file name="folha com corte-u27711.png" crc="4080113720" ref="phone>index"/>
+    <file name="brushe-balao-de-fala-pfs-u27715.png" crc="4142023686" ref="phone>index"/>
+    <file name="leão final-u27725.png" crc="3127108" ref="phone>index"/>
+    <file name="tablet_png8592-u27713.png" crc="348354170" ref="phone>index"/>
+    <file name="paper10-u27709.png" crc="329581989" ref="phone>index"/>
+    <file name="papernovo-u14562.png" crc="4252975834" ref="jogos"/>
+    <file name="u24935.png" crc="301280562" ref="jogos"/>
+    <file name="u24935-a.png" crc="301280562" ref="jogos"/>
+    <file name="u14605.png" crc="521676971" ref="jogos"/>
+    <file name="u14605-a.png" crc="521676971" ref="jogos"/>
+    <file name="u14620-4-a.png" crc="4251674368" ref="jogos"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="paper10.png" crc="163597613" ref="jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="u21831-4.png" crc="335981447" ref="jogos"/>
+    <file name="u14574.png" crc="4267731610" ref="jogos"/>
+    <file name="u14574-a.png" crc="4267731610" ref="jogos"/>
+    <file name="paper102.png" crc="2188138" ref="jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="u20587-4.png" crc="158270226" ref="jogos"/>
+    <file name="u24154.png" crc="3836955746" ref="jogos"/>
+    <file name="u24154-a.png" crc="3836955746" ref="jogos"/>
+    <file name="u14597.png" crc="269548207" ref="jogos"/>
+    <file name="u14597-a.png" crc="269548207" ref="jogos"/>
+    <file name="logo mais novo que tudo23-u14628.png" crc="4036883120" ref="jogos"/>
+    <file name="logo mais novo que tudo23-u14630.png" crc="138340804" ref="jogos"/>
+    <file name="u14696-4.png" crc="3830336904" ref="jogos"/>
+    <file name="u14697-4.png" crc="429738962" ref="jogos"/>
+    <file name="u24929.png" crc="4062206254" ref="jogos"/>
+    <file name="u24929-a.png" crc="4062206254" ref="jogos"/>
+    <file name="u14639.png" crc="4181454643" ref="jogos"/>
+    <file name="u14639-a.png" crc="4181454643" ref="jogos"/>
+    <file name="u14688-4-a.png" crc="73201312" ref="jogos"/>
+    <file name="u21819-4.png" crc="307218338" ref="jogos"/>
+    <file name="u14656.png" crc="313386589" ref="jogos"/>
+    <file name="u14656-a.png" crc="313386589" ref="jogos"/>
+    <file name="u20572-4.png" crc="158270226" ref="jogos"/>
+    <file name="u24184.png" crc="358766192" ref="jogos"/>
+    <file name="u24184-a.png" crc="358766192" ref="jogos"/>
+    <file name="u14646.png" crc="397668405" ref="jogos"/>
+    <file name="u14646-a.png" crc="397668405" ref="jogos"/>
+    <file name="a15-azul-bebe.jpg" crc="3903945765" seo="true" ref="jogos:jogoss"/>
+    <file name="television-png-29-u24519.png" crc="363653375" ref="jogos"/>
+    <file name="u19320-4.png" crc="3971816307" ref="jogos"/>
+    <file name="u19322-4.png" crc="4152302139" ref="jogos"/>
+    <file name="u19326-4.png" crc="94952057" ref="jogos"/>
+    <file name="u19330-4.png" crc="360218395" ref="jogos"/>
+    <file name="276314_papel-de-parede-pista-de-corrida-no-campo_1280x720-crop-u19340.jpg" crc="3762265649" ref="jogos"/>
+    <file name="pista-de-led-3.jpg" crc="4183697171" seo="true" ref="jogos:jogoss"/>
+    <file name="tumblr_inline_mliw1lbc651qz4rgp-crop-u19358.jpg" crc="447423789" ref="jogos"/>
+    <file name="baloes-personalizados.jpg" crc="150319611" seo="true" ref="jogos:jogoss"/>
+    <file name="u24525-5.png" crc="4229019105" ref="jogos"/>
+    <file name="facebook_47004-ieu25359-fr2.png" crc="474439532" ref="jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="facebook_47004.png" crc="474439532" ref="jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="twitter_469832.png" crc="363034564" ref="jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="youtube_470032.png" crc="4274220393" ref="jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="wordpress_icon-iconscom_536002.png" crc="276844537" ref="jogos:formcadastrar:formlogin:personagens:novidades:compras:perfiljogo:sobre-os-personagens:sobre-os-jogos:sobre-nós:index:jogoss:personagenss"/>
+    <file name="download2.jpg" crc="3906755480" seo="true" ref="jogos:jogoss"/>
+    <file name="tablet_png8592-u15129.png" crc="348354170" ref="jogos"/>
+    <file name="brushe-balao-de-fala-pfs-u22123.png" crc="4142023686" ref="jogos"/>
+    <file name="folha com corte-u22121.png" crc="4080113720" ref="jogos"/>
+    <file name="leão final-u22126.png" crc="480986763" ref="jogos"/>
+    <file name="paper10-u24554.png" crc="3911180631" ref="jogos"/>
+    <file name="papernovo-u18819.png" crc="4252975834" ref="formcadastrar"/>
+    <file name="logo mais novo que tudo23-u18878.png" crc="4036883120" ref="formcadastrar"/>
+    <file name="logo mais novo que tudo23-u18880.png" crc="138340804" ref="formcadastrar"/>
+    <file name="u24908.png" crc="301280562" ref="formcadastrar"/>
+    <file name="u24908-a.png" crc="301280562" ref="formcadastrar"/>
+    <file name="u18876.png" crc="521676971" ref="formcadastrar"/>
+    <file name="u18876-a.png" crc="521676971" ref="formcadastrar"/>
+    <file name="u18870.png" crc="4251674368" ref="formcadastrar"/>
+    <file name="u18870-a.png" crc="4251674368" ref="formcadastrar"/>
+    <file name="u21914-4.png" crc="335981447" ref="formcadastrar"/>
+    <file name="u18833.png" crc="4267731610" ref="formcadastrar"/>
+    <file name="u18833-a.png" crc="4267731610" ref="formcadastrar"/>
+    <file name="u20691-4.png" crc="158270226" ref="formcadastrar"/>
+    <file name="u24142.png" crc="3836955746" ref="formcadastrar"/>
+    <file name="u24142-a.png" crc="3836955746" ref="formcadastrar"/>
+    <file name="u18854.png" crc="269548207" ref="formcadastrar"/>
+    <file name="u18854-a.png" crc="269548207" ref="formcadastrar"/>
+    <file name="u24920.png" crc="4062206254" ref="formcadastrar"/>
+    <file name="u24920-a.png" crc="4062206254" ref="formcadastrar"/>
+    <file name="u18924.png" crc="4181454643" ref="formcadastrar"/>
+    <file name="u18924-a.png" crc="4181454643" ref="formcadastrar"/>
+    <file name="u18896.png" crc="73201312" ref="formcadastrar"/>
+    <file name="u18896-a.png" crc="73201312" ref="formcadastrar"/>
+    <file name="u21902-4.png" crc="307218338" ref="formcadastrar"/>
+    <file name="u18928.png" crc="313386589" ref="formcadastrar"/>
+    <file name="u18928-a.png" crc="313386589" ref="formcadastrar"/>
+    <file name="u20675-4.png" crc="158270226" ref="formcadastrar"/>
+    <file name="u24210.png" crc="358766192" ref="formcadastrar"/>
+    <file name="u24210-a.png" crc="358766192" ref="formcadastrar"/>
+    <file name="u18906.png" crc="397668405" ref="formcadastrar"/>
+    <file name="u18906-a.png" crc="397668405" ref="formcadastrar"/>
+    <file name="caderno-u10370.png" crc="283739463" ref="formcadastrar"/>
+    <file name="u10480.png" crc="4248664749" ref="formcadastrar"/>
+    <file name="u10480-ferr.png" crc="3978535687" ref="formcadastrar"/>
+    <file name="u10487.png" crc="374029378" ref="formcadastrar"/>
+    <file name="u10487-ferr.png" crc="4100013457" ref="formcadastrar"/>
+    <file name="u10482-fss.png" crc="3824908980" ref="formcadastrar"/>
+    <file name="u10476-17.png" crc="3963776686" ref="formcadastrar"/>
+    <file name="u10476-17-r.png" crc="3811946744" ref="formcadastrar"/>
+    <file name="u10476-17-m.png" crc="4138478491" ref="formcadastrar"/>
+    <file name="u10476-17-fs.png" crc="4129136537" ref="formcadastrar"/>
+    <file name="u10536.png" crc="267296209" ref="formcadastrar"/>
+    <file name="u10536-ferr.png" crc="3887269863" ref="formcadastrar"/>
+    <file name="u18817.png" crc="4289719015" ref="formcadastrar"/>
+    <file name="u18817-ferr.png" crc="4265784358" ref="formcadastrar"/>
+    <file name="5-u10368.png" crc="3829988799" ref="formcadastrar"/>
+    <file name="pencil-23648_960_720-u10398.png" crc="4133224687" ref="formcadastrar"/>
+    <file name="u11411-4.png" crc="3932593245" ref="formcadastrar"/>
+    <file name="u18940-4-a.png" crc="429738962" ref="formcadastrar"/>
+    <file name="p993518-u10374.png" crc="135126385" ref="formcadastrar"/>
+    <file name="brushe-balao-de-fala-pfs-u25189.png" crc="4142023686" ref="formcadastrar"/>
+    <file name="u18939-4.png" crc="3830336904" ref="formcadastrar"/>
+    <file name="folha com corte-u25187.png" crc="4080113720" ref="formcadastrar"/>
+    <file name="leão final-u25192.png" crc="480986763" ref="formcadastrar"/>
+    <file name="paper10-u9715.png" crc="3911180631" ref="formcadastrar"/>
+    <file name="papernovo-u18950.png" crc="4252975834" ref="formlogin"/>
+    <file name="logo mais novo que tudo23-u19009.png" crc="4036883120" ref="formlogin"/>
+    <file name="logo mais novo que tudo23-u19011.png" crc="138340804" ref="formlogin"/>
+    <file name="u25027.png" crc="301280562" ref="formlogin"/>
+    <file name="u25027-a.png" crc="301280562" ref="formlogin"/>
+    <file name="u19007.png" crc="521676971" ref="formlogin"/>
+    <file name="u19007-a.png" crc="521676971" ref="formlogin"/>
+    <file name="u19001.png" crc="4251674368" ref="formlogin"/>
+    <file name="u19001-a.png" crc="4251674368" ref="formlogin"/>
+    <file name="u21930-4.png" crc="335981447" ref="formlogin"/>
+    <file name="u18964.png" crc="4267731610" ref="formlogin"/>
+    <file name="u18964-a.png" crc="4267731610" ref="formlogin"/>
+    <file name="u20712-4.png" crc="158270226" ref="formlogin"/>
+    <file name="u24200.png" crc="3836955746" ref="formlogin"/>
+    <file name="u24200-a.png" crc="3836955746" ref="formlogin"/>
+    <file name="u18985.png" crc="269548207" ref="formlogin"/>
+    <file name="u18985-a.png" crc="269548207" ref="formlogin"/>
+    <file name="u24976.png" crc="4062206254" ref="formlogin"/>
+    <file name="u24976-a.png" crc="4062206254" ref="formlogin"/>
+    <file name="u19055.png" crc="4181454643" ref="formlogin"/>
+    <file name="u19055-a.png" crc="4181454643" ref="formlogin"/>
+    <file name="u19027.png" crc="73201312" ref="formlogin"/>
+    <file name="u19027-a.png" crc="73201312" ref="formlogin"/>
+    <file name="u21865-4.png" crc="307218338" ref="formlogin"/>
+    <file name="u19059.png" crc="313386589" ref="formlogin"/>
+    <file name="u19059-a.png" crc="313386589" ref="formlogin"/>
+    <file name="u20634-4.png" crc="158270226" ref="formlogin"/>
+    <file name="u24192.png" crc="358766192" ref="formlogin"/>
+    <file name="u24192-a.png" crc="358766192" ref="formlogin"/>
+    <file name="u19037.png" crc="397668405" ref="formlogin"/>
+    <file name="u19037-a.png" crc="397668405" ref="formlogin"/>
+    <file name="bloco-de-notas_2252413-u11653.png" crc="34164558" ref="formlogin"/>
+    <file name="u11737.png" crc="374029378" ref="formlogin"/>
+    <file name="u11737-ferr.png" crc="4100013457" ref="formlogin"/>
+    <file name="u11739-fss.png" crc="3824908980" ref="formlogin"/>
+    <file name="u11740-17.png" crc="3963776686" ref="formlogin"/>
+    <file name="u11740-17-r.png" crc="3811946744" ref="formlogin"/>
+    <file name="u11740-17-m.png" crc="4138478491" ref="formlogin"/>
+    <file name="u11740-17-fs.png" crc="4129136537" ref="formlogin"/>
+    <file name="u11733.png" crc="267296209" ref="formlogin"/>
+    <file name="u11733-ferr.png" crc="3887269863" ref="formlogin"/>
+    <file name="5-u11723.png" crc="3829988799" ref="formlogin"/>
+    <file name="u11652-4.png" crc="3948222258" ref="formlogin"/>
+    <file name="pencil-23648_960_720-u25220.png" crc="4133224687" ref="formlogin"/>
+    <file name="u19071-4.png" crc="429738962" ref="formlogin"/>
+    <file name="p993518-u25204.png" crc="135126385" ref="formlogin"/>
+    <file name="brushe-balao-de-fala-pfs-u25415.png" crc="4142023686" ref="formlogin"/>
+    <file name="u19070-4-a.png" crc="3830336904" ref="formlogin"/>
+    <file name="folha com corte-u25413.png" crc="4080113720" ref="formlogin"/>
+    <file name="leão final-u25418.png" crc="480986763" ref="formlogin"/>
+    <file name="paper10-u11662.png" crc="240987712" ref="formlogin"/>
+    <file name="papernovo-u17361.png" crc="4252975834" ref="personagens"/>
+    <file name="u24999.png" crc="301280562" ref="personagens"/>
+    <file name="u24999-a.png" crc="301280562" ref="personagens"/>
+    <file name="u17418.png" crc="521676971" ref="personagens"/>
+    <file name="u17418-a.png" crc="521676971" ref="personagens"/>
+    <file name="u17412.png" crc="4251674368" ref="personagens"/>
+    <file name="u17412-a.png" crc="4251674368" ref="personagens"/>
+    <file name="u21882-4.png" crc="335981447" ref="personagens"/>
+    <file name="u17375-4-a.png" crc="4267731610" ref="personagens"/>
+    <file name="u20649-4.png" crc="158270226" ref="personagens"/>
+    <file name="u24106.png" crc="3836955746" ref="personagens"/>
+    <file name="u24106-a.png" crc="3836955746" ref="personagens"/>
+    <file name="u17396.png" crc="269548207" ref="personagens"/>
+    <file name="u17396-a.png" crc="269548207" ref="personagens"/>
+    <file name="logo mais novo que tudo23-u17420.png" crc="4036883120" ref="personagens"/>
+    <file name="logo mais novo que tudo23-u17422.png" crc="138340804" ref="personagens"/>
+    <file name="u17481-4.png" crc="3830336904" ref="personagens"/>
+    <file name="u17482-4.png" crc="429738962" ref="personagens"/>
+    <file name="u24983.png" crc="4062206254" ref="personagens"/>
+    <file name="u24983-a.png" crc="4062206254" ref="personagens"/>
+    <file name="u17478.png" crc="4181454643" ref="personagens"/>
+    <file name="u17478-a.png" crc="4181454643" ref="personagens"/>
+    <file name="u17438.png" crc="73201312" ref="personagens"/>
+    <file name="u17438-a.png" crc="73201312" ref="personagens"/>
+    <file name="u21827-4.png" crc="307218338" ref="personagens"/>
+    <file name="u17449-4-a.png" crc="313386589" ref="personagens"/>
+    <file name="u20581-4.png" crc="158270226" ref="personagens"/>
+    <file name="u24136.png" crc="358766192" ref="personagens"/>
+    <file name="u24136-a.png" crc="358766192" ref="personagens"/>
+    <file name="u17463.png" crc="397668405" ref="personagens"/>
+    <file name="u17463-a.png" crc="397668405" ref="personagens"/>
+    <file name="grass_field5-1024x1024-crop-u19284.png" crc="267172111" ref="personagens"/>
+    <file name="tp2_front.png" crc="421525578" seo="true" ref="personagens:personagenss"/>
+    <file name="girafa final.png" crc="4024137673" seo="true" ref="personagens:personagenss"/>
+    <file name="urso final.png" crc="3867271196" seo="true" ref="personagens:personagenss"/>
+    <file name="image1 1.png" crc="253823922" seo="true" ref="personagens:personagenss"/>
+    <file name="macaco colorido.png" crc="344573266" seo="true" ref="personagens:personagenss"/>
+    <file name="leão final.png" crc="4002364069" seo="true" ref="personagens:personagenss"/>
+    <file name="girafa final91x128.png" crc="4253838122" seo="true" ref="personagens"/>
+    <file name="urso final128x128.png" crc="89420872" seo="true" ref="personagens"/>
+    <file name="image1 1123x123.png" crc="249699074" seo="true" ref="personagens"/>
+    <file name="macaco colorido131x131.png" crc="216739600" seo="true" ref="personagens"/>
+    <file name="leão final140x123.png" crc="4013943828" seo="true" ref="personagens"/>
+    <file name="loading.gif" crc="3815509949" ref="personagens:personagenss"/>
+    <file name="5.png" crc="386643048" seo="true" ref="personagens:personagenss"/>
+    <file name="u19096-4.png" crc="4158932740" ref="personagens"/>
+    <file name="brushe-balao-de-fala-pfs-u24641-a.png" crc="4142023686" ref="personagens"/>
+    <file name="leão final-u24644-a.png" crc="480986763" ref="personagens"/>
+    <file name="tablet_png8592-u19290.png" crc="348354170" ref="personagens"/>
+    <file name="folha com corte-u24639.png" crc="4080113720" ref="personagens"/>
+    <file name="paper10-u19303.png" crc="3911180631" ref="personagens"/>
+    <file name="novidades-favicon.ico" crc="288646728" ref="novidades"/>
+    <file name="papernovo-u13057.png" crc="4252975834" ref="novidades"/>
+    <file name="u24990.png" crc="301280562" ref="novidades"/>
+    <file name="u24990-a.png" crc="301280562" ref="novidades"/>
+    <file name="u13309-4-a.png" crc="521676971" ref="novidades"/>
+    <file name="u13049.png" crc="4251674368" ref="novidades"/>
+    <file name="u13049-a.png" crc="4251674368" ref="novidades"/>
+    <file name="u21851-4.png" crc="335981447" ref="novidades"/>
+    <file name="u13017.png" crc="4267731610" ref="novidades"/>
+    <file name="u13017-a.png" crc="4267731610" ref="novidades"/>
+    <file name="u20621-4.png" crc="158270226" ref="novidades"/>
+    <file name="u24121.png" crc="3836955746" ref="novidades"/>
+    <file name="u24121-a.png" crc="3836955746" ref="novidades"/>
+    <file name="u13864.png" crc="269548207" ref="novidades"/>
+    <file name="u13864-a.png" crc="269548207" ref="novidades"/>
+    <file name="logo mais novo que tudo23-u13063.png" crc="4036883120" ref="novidades"/>
+    <file name="logo mais novo que tudo23-u13074.png" crc="138340804" ref="novidades"/>
+    <file name="u13059-4.png" crc="3830336904" ref="novidades"/>
+    <file name="u12999-4.png" crc="429738962" ref="novidades"/>
+    <file name="u25034.png" crc="4062206254" ref="novidades"/>
+    <file name="u25034-a.png" crc="4062206254" ref="novidades"/>
+    <file name="u13318-4-a.png" crc="4181454643" ref="novidades"/>
+    <file name="u13141.png" crc="73201312" ref="novidades"/>
+    <file name="u13141-a.png" crc="73201312" ref="novidades"/>
+    <file name="u21896-4.png" crc="307218338" ref="novidades"/>
+    <file name="u13098.png" crc="313386589" ref="novidades"/>
+    <file name="u13098-a.png" crc="313386589" ref="novidades"/>
+    <file name="u20668-4.png" crc="158270226" ref="novidades"/>
+    <file name="u24177.png" crc="358766192" ref="novidades"/>
+    <file name="u24177-a.png" crc="358766192" ref="novidades"/>
+    <file name="u13873.png" crc="397668405" ref="novidades"/>
+    <file name="u13873-a.png" crc="397668405" ref="novidades"/>
+    <file name="novoquadro.jpg" crc="99281806" seo="true" ref="novidades"/>
+    <file name="7-u13348.png" crc="3891504248" ref="novidades"/>
+    <file name="u13350-4.png" crc="448365610" ref="novidades"/>
+    <file name="brushe-balao-de-fala-pfs-u22105.png" crc="4142023686" ref="novidades"/>
+    <file name="tablet_png8592-u13149.png" crc="348354170" ref="novidades"/>
+    <file name="folha com corte-u22103.png" crc="4080113720" ref="novidades"/>
+    <file name="leão final-u22108.png" crc="288288149" ref="novidades"/>
+    <file name="paper10-u12997.png" crc="3911180631" ref="novidades"/>
+    <file name="papernovo-u13726.png" crc="4252975834" ref="compras"/>
+    <file name="u24956.png" crc="301280562" ref="compras"/>
+    <file name="u24956-a.png" crc="301280562" ref="compras"/>
+    <file name="u13640.png" crc="521676971" ref="compras"/>
+    <file name="u13640-a.png" crc="521676971" ref="compras"/>
+    <file name="u13628.png" crc="4251674368" ref="compras"/>
+    <file name="u13628-a.png" crc="4251674368" ref="compras"/>
+    <file name="u21909-4.png" crc="335981447" ref="compras"/>
+    <file name="u13605.png" crc="4267731610" ref="compras"/>
+    <file name="u13605-a.png" crc="4267731610" ref="compras"/>
+    <file name="u20684-4.png" crc="158270226" ref="compras"/>
+    <file name="u24239.png" crc="3836955746" ref="compras"/>
+    <file name="u24239-a.png" crc="3836955746" ref="compras"/>
+    <file name="u13907-4-a.png" crc="269548207" ref="compras"/>
+    <file name="logo mais novo que tudo23-u13740.png" crc="4036883120" ref="compras"/>
+    <file name="logo mais novo que tudo23-u13763.png" crc="138340804" ref="compras"/>
+    <file name="u13739-4.png" crc="3830336904" ref="compras"/>
+    <file name="u13725-4.png" crc="429738962" ref="compras"/>
+    <file name="u25042.png" crc="4062206254" ref="compras"/>
+    <file name="u25042-a.png" crc="4062206254" ref="compras"/>
+    <file name="u13715.png" crc="4181454643" ref="compras"/>
+    <file name="u13715-a.png" crc="4181454643" ref="compras"/>
+    <file name="u13675.png" crc="73201312" ref="compras"/>
+    <file name="u13675-a.png" crc="73201312" ref="compras"/>
+    <file name="u21844-4.png" crc="307218338" ref="compras"/>
+    <file name="u13689.png" crc="313386589" ref="compras"/>
+    <file name="u13689-a.png" crc="313386589" ref="compras"/>
+    <file name="u20607-4.png" crc="158270226" ref="compras"/>
+    <file name="u24207.png" crc="358766192" ref="compras"/>
+    <file name="u24207-a.png" crc="358766192" ref="compras"/>
+    <file name="u13913-4-a.png" crc="397668405" ref="compras"/>
+    <file name="4-u13930.png" crc="3932778017" ref="compras"/>
+    <file name="u13934-4.png" crc="10381172" ref="compras"/>
+    <file name="brushe-balao-de-fala-pfs-u22173.png" crc="4142023686" ref="compras"/>
+    <file name="tablet_png8592-u13947.png" crc="348354170" ref="compras"/>
+    <file name="folha com corte-u22171.png" crc="4080113720" ref="compras"/>
+    <file name="leão final-u22176.png" crc="480986763" ref="compras"/>
+    <file name="paper10-u25223.png" crc="3911180631" ref="compras"/>
+    <file name="papernovo-u18073.png" crc="4252975834" ref="perfiljogo"/>
+    <file name="u24969.png" crc="301280562" ref="perfiljogo"/>
+    <file name="u24969-a.png" crc="301280562" ref="perfiljogo"/>
+    <file name="u18089.png" crc="521676971" ref="perfiljogo"/>
+    <file name="u18089-a.png" crc="521676971" ref="perfiljogo"/>
+    <file name="u18116.png" crc="4251674368" ref="perfiljogo"/>
+    <file name="u18116-a.png" crc="4251674368" ref="perfiljogo"/>
+    <file name="u21838-4.png" crc="335981447" ref="perfiljogo"/>
+    <file name="u18102.png" crc="4267731610" ref="perfiljogo"/>
+    <file name="u18102-a.png" crc="4267731610" ref="perfiljogo"/>
+    <file name="u20592-4.png" crc="158270226" ref="perfiljogo"/>
+    <file name="u24231.png" crc="3836955746" ref="perfiljogo"/>
+    <file name="u24231-a.png" crc="3836955746" ref="perfiljogo"/>
+    <file name="u18129.png" crc="269548207" ref="perfiljogo"/>
+    <file name="u18129-a.png" crc="269548207" ref="perfiljogo"/>
+    <file name="logo mais novo que tudo23-u18192.png" crc="4036883120" ref="perfiljogo"/>
+    <file name="logo mais novo que tudo23-u18201.png" crc="138340804" ref="perfiljogo"/>
+    <file name="u18198-4.png" crc="3830336904" ref="perfiljogo"/>
+    <file name="u18204-4.png" crc="429738962" ref="perfiljogo"/>
+    <file name="u24963.png" crc="4062206254" ref="perfiljogo"/>
+    <file name="u24963-a.png" crc="4062206254" ref="perfiljogo"/>
+    <file name="u18138.png" crc="4181454643" ref="perfiljogo"/>
+    <file name="u18138-a.png" crc="4181454643" ref="perfiljogo"/>
+    <file name="u18169.png" crc="73201312" ref="perfiljogo"/>
+    <file name="u18169-a.png" crc="73201312" ref="perfiljogo"/>
+    <file name="u21922-4.png" crc="307218338" ref="perfiljogo"/>
+    <file name="u18191.png" crc="313386589" ref="perfiljogo"/>
+    <file name="u18191-a.png" crc="313386589" ref="perfiljogo"/>
+    <file name="u20703-4.png" crc="158270226" ref="perfiljogo"/>
+    <file name="u24114.png" crc="358766192" ref="perfiljogo"/>
+    <file name="u24114-a.png" crc="358766192" ref="perfiljogo"/>
+    <file name="u18175.png" crc="397668405" ref="perfiljogo"/>
+    <file name="u18175-a.png" crc="397668405" ref="perfiljogo"/>
+    <file name="television-png-29-u18196.png" crc="363653375" ref="perfiljogo"/>
+    <file name="u18203-5.png" crc="4229019105" ref="perfiljogo"/>
+    <file name="brushe-balao-de-fala-pfs-u25438.png" crc="4142023686" ref="perfiljogo"/>
+    <file name="tablet_png8592-u18069.png" crc="348354170" ref="perfiljogo"/>
+    <file name="folha com corte-u25436.png" crc="4080113720" ref="perfiljogo"/>
+    <file name="leão final-u25441.png" crc="480986763" ref="perfiljogo"/>
+    <file name="paper10-u18071.png" crc="3911180631" ref="perfiljogo"/>
+    <file name="papernovo-u19947.png" crc="4252975834" ref="sobre-os-personagens"/>
+    <file name="u25005.png" crc="301280562" ref="sobre-os-personagens"/>
+    <file name="u25005-a.png" crc="301280562" ref="sobre-os-personagens"/>
+    <file name="u20067.png" crc="521676971" ref="sobre-os-personagens"/>
+    <file name="u20067-a.png" crc="521676971" ref="sobre-os-personagens"/>
+    <file name="u20051.png" crc="4251674368" ref="sobre-os-personagens"/>
+    <file name="u20051-a.png" crc="4251674368" ref="sobre-os-personagens"/>
+    <file name="u21949-4.png" crc="335981447" ref="sobre-os-personagens"/>
+    <file name="u20038.png" crc="4267731610" ref="sobre-os-personagens"/>
+    <file name="u20038-a.png" crc="4267731610" ref="sobre-os-personagens"/>
+    <file name="u20733-4-a.png" crc="158270226" ref="sobre-os-personagens"/>
+    <file name="u24165.png" crc="3836955746" ref="sobre-os-personagens"/>
+    <file name="u24165-a.png" crc="3836955746" ref="sobre-os-personagens"/>
+    <file name="u20043.png" crc="269548207" ref="sobre-os-personagens"/>
+    <file name="u20043-a.png" crc="269548207" ref="sobre-os-personagens"/>
+    <file name="logo mais novo que tudo23-u20022.png" crc="4036883120" ref="sobre-os-personagens"/>
+    <file name="logo mais novo que tudo23-u20013.png" crc="138340804" ref="sobre-os-personagens"/>
+    <file name="u20017-4.png" crc="3830336904" ref="sobre-os-personagens"/>
+    <file name="u19941-4.png" crc="429738962" ref="sobre-os-personagens"/>
+    <file name="u24902.png" crc="4062206254" ref="sobre-os-personagens"/>
+    <file name="u24902-a.png" crc="4062206254" ref="sobre-os-personagens"/>
+    <file name="u20011.png" crc="4181454643" ref="sobre-os-personagens"/>
+    <file name="u20011-a.png" crc="4181454643" ref="sobre-os-personagens"/>
+    <file name="u19973.png" crc="73201312" ref="sobre-os-personagens"/>
+    <file name="u19973-a.png" crc="73201312" ref="sobre-os-personagens"/>
+    <file name="u21944-4.png" crc="307218338" ref="sobre-os-personagens"/>
+    <file name="u19970.png" crc="313386589" ref="sobre-os-personagens"/>
+    <file name="u19970-a.png" crc="313386589" ref="sobre-os-personagens"/>
+    <file name="u20728-4-a.png" crc="158270226" ref="sobre-os-personagens"/>
+    <file name="u24149.png" crc="358766192" ref="sobre-os-personagens"/>
+    <file name="u24149-a.png" crc="358766192" ref="sobre-os-personagens"/>
+    <file name="u20003.png" crc="397668405" ref="sobre-os-personagens"/>
+    <file name="u20003-a.png" crc="397668405" ref="sobre-os-personagens"/>
+    <file name="brushe-balao-de-fala-pfs-u24586.png" crc="4142023686" ref="sobre-os-personagens"/>
+    <file name="leão final-u24589.png" crc="480986763" ref="sobre-os-personagens"/>
+    <file name="sem título-1-u20024.png" crc="484113803" ref="sobre-os-personagens"/>
+    <file name="folha com corte71x34.png" crc="3976878013" seo="true" ref="sobre-os-personagens"/>
+    <file name="4-u19937.png" crc="327759006" ref="sobre-os-personagens"/>
+    <file name="u19944-9.png" crc="4048904358" ref="sobre-os-personagens"/>
+    <file name="folha com corte-u24584.png" crc="4080113720" ref="sobre-os-personagens"/>
+    <file name="tablet_png8592-u19942.png" crc="37004798" ref="sobre-os-personagens"/>
+    <file name="paper10-u20018.png" crc="3911180631" ref="sobre-os-personagens"/>
+    <file name="papernovo-u21308.png" crc="4252975834" ref="sobre-os-jogos"/>
+    <file name="u24917.png" crc="301280562" ref="sobre-os-jogos"/>
+    <file name="u24917-a.png" crc="301280562" ref="sobre-os-jogos"/>
+    <file name="u21321.png" crc="521676971" ref="sobre-os-jogos"/>
+    <file name="u21321-a.png" crc="521676971" ref="sobre-os-jogos"/>
+    <file name="u21337.png" crc="4251674368" ref="sobre-os-jogos"/>
+    <file name="u21337-a.png" crc="4251674368" ref="sobre-os-jogos"/>
+    <file name="u21964-4-a.png" crc="335981447" ref="sobre-os-jogos"/>
+    <file name="u21366.png" crc="4267731610" ref="sobre-os-jogos"/>
+    <file name="u21366-a.png" crc="4267731610" ref="sobre-os-jogos"/>
+    <file name="u21362-4.png" crc="158270226" ref="sobre-os-jogos"/>
+    <file name="u24226.png" crc="3836955746" ref="sobre-os-jogos"/>
+    <file name="u24226-a.png" crc="3836955746" ref="sobre-os-jogos"/>
+    <file name="u21318.png" crc="269548207" ref="sobre-os-jogos"/>
+    <file name="u21318-a.png" crc="269548207" ref="sobre-os-jogos"/>
+    <file name="logo mais novo que tudo23-u21226.png" crc="4036883120" ref="sobre-os-jogos"/>
+    <file name="logo mais novo que tudo23-u21241.png" crc="138340804" ref="sobre-os-jogos"/>
+    <file name="u21238-4.png" crc="3830336904" ref="sobre-os-jogos"/>
+    <file name="u21239-4.png" crc="429738962" ref="sobre-os-jogos"/>
+    <file name="u25013.png" crc="4062206254" ref="sobre-os-jogos"/>
+    <file name="u25013-a.png" crc="4062206254" ref="sobre-os-jogos"/>
+    <file name="u21278.png" crc="4181454643" ref="sobre-os-jogos"/>
+    <file name="u21278-a.png" crc="4181454643" ref="sobre-os-jogos"/>
+    <file name="u21272.png" crc="73201312" ref="sobre-os-jogos"/>
+    <file name="u21272-a.png" crc="73201312" ref="sobre-os-jogos"/>
+    <file name="u21958-4-a.png" crc="307218338" ref="sobre-os-jogos"/>
+    <file name="u21292.png" crc="313386589" ref="sobre-os-jogos"/>
+    <file name="u21292-a.png" crc="313386589" ref="sobre-os-jogos"/>
+    <file name="u21298-4.png" crc="158270226" ref="sobre-os-jogos"/>
+    <file name="u24128.png" crc="358766192" ref="sobre-os-jogos"/>
+    <file name="u24128-a.png" crc="358766192" ref="sobre-os-jogos"/>
+    <file name="u21257.png" crc="397668405" ref="sobre-os-jogos"/>
+    <file name="u21257-a.png" crc="397668405" ref="sobre-os-jogos"/>
+    <file name="brushe-balao-de-fala-pfs-u22223.png" crc="4142023686" ref="sobre-os-jogos"/>
+    <file name="leão final-u22226.png" crc="480986763" ref="sobre-os-jogos"/>
+    <file name="sem título-1-u21236.png" crc="484113803" ref="sobre-os-jogos"/>
+    <file name="4-u21304.png" crc="327759006" ref="sobre-os-jogos"/>
+    <file name="u21240-5.png" crc="218618712" ref="sobre-os-jogos"/>
+    <file name="folha com corte-u22221.png" crc="4080113720" ref="sobre-os-jogos"/>
+    <file name="tablet_png8592-u21243.png" crc="37004798" ref="sobre-os-jogos"/>
+    <file name="paper10-u21306.png" crc="3911180631" ref="sobre-os-jogos"/>
+    <file name="papernovo-u23934.png" crc="4252975834" ref="sobre-nós"/>
+    <file name="u24948.png" crc="301280562" ref="sobre-nós"/>
+    <file name="u24948-a.png" crc="301280562" ref="sobre-nós"/>
+    <file name="u23961.png" crc="521676971" ref="sobre-nós"/>
+    <file name="u23961-a.png" crc="521676971" ref="sobre-nós"/>
+    <file name="u23975.png" crc="4251674368" ref="sobre-nós"/>
+    <file name="u23975-a.png" crc="4251674368" ref="sobre-nós"/>
+    <file name="u23981-4.png" crc="335981447" ref="sobre-nós"/>
+    <file name="u23955.png" crc="4267731610" ref="sobre-nós"/>
+    <file name="u23955-a.png" crc="4267731610" ref="sobre-nós"/>
+    <file name="u23950-4.png" crc="158270226" ref="sobre-nós"/>
+    <file name="u24260-4-a.png" crc="3836955746" ref="sobre-nós"/>
+    <file name="u23996.png" crc="269548207" ref="sobre-nós"/>
+    <file name="u23996-a.png" crc="269548207" ref="sobre-nós"/>
+    <file name="logo mais novo que tudo23-u24075.png" crc="4036883120" ref="sobre-nós"/>
+    <file name="logo mais novo que tudo23-u24081.png" crc="138340804" ref="sobre-nós"/>
+    <file name="u24074-4.png" crc="3830336904" ref="sobre-nós"/>
+    <file name="u24006-4.png" crc="429738962" ref="sobre-nós"/>
+    <file name="u24942.png" crc="4062206254" ref="sobre-nós"/>
+    <file name="u24942-a.png" crc="4062206254" ref="sobre-nós"/>
+    <file name="u24053.png" crc="4181454643" ref="sobre-nós"/>
+    <file name="u24053-a.png" crc="4181454643" ref="sobre-nós"/>
+    <file name="u24038.png" crc="73201312" ref="sobre-nós"/>
+    <file name="u24038-a.png" crc="73201312" ref="sobre-nós"/>
+    <file name="u24046-4.png" crc="307218338" ref="sobre-nós"/>
+    <file name="u24034.png" crc="313386589" ref="sobre-nós"/>
+    <file name="u24034-a.png" crc="313386589" ref="sobre-nós"/>
+    <file name="u24027-4.png" crc="158270226" ref="sobre-nós"/>
+    <file name="u24268-4-a.png" crc="358766192" ref="sobre-nós"/>
+    <file name="u24017.png" crc="397668405" ref="sobre-nós"/>
+    <file name="u24017-a.png" crc="397668405" ref="sobre-nós"/>
+    <file name="brushe-balao-de-fala-pfs-u24656.png" crc="4142023686" ref="sobre-nós"/>
+    <file name="leão final-u24659.png" crc="480986763" ref="sobre-nós"/>
+    <file name="sem título-1-u23938.png" crc="484113803" ref="sobre-nós"/>
+    <file name="4-u24007.png" crc="327759006" ref="sobre-nós"/>
+    <file name="u24079-5.png" crc="4015199786" ref="sobre-nós"/>
+    <file name="folha com corte-u24654.png" crc="4080113720" ref="sobre-nós"/>
+    <file name="tablet_png8592-u24072.png" crc="37004798" ref="sobre-nós"/>
+    <file name="paper10-u24000.png" crc="3911180631" ref="sobre-nós"/>
+    <file name="início-favicon.ico" crc="3913429556" ref="index"/>
+    <file name="papernovo-u24795.png" crc="4252975834" ref="index"/>
+    <file name="u25054-4-a.png" crc="301280562" ref="index"/>
+    <file name="u24860.png" crc="521676971" ref="index"/>
+    <file name="u24860-a.png" crc="521676971" ref="index"/>
+    <file name="u24831.png" crc="4251674368" ref="index"/>
+    <file name="u24831-a.png" crc="4251674368" ref="index"/>
+    <file name="u24825-4.png" crc="335981447" ref="index"/>
+    <file name="u24846.png" crc="4267731610" ref="index"/>
+    <file name="u24846-a.png" crc="4267731610" ref="index"/>
+    <file name="u24841-4.png" crc="158270226" ref="index"/>
+    <file name="u24851.png" crc="3836955746" ref="index"/>
+    <file name="u24851-a.png" crc="3836955746" ref="index"/>
+    <file name="u24818.png" crc="269548207" ref="index"/>
+    <file name="u24818-a.png" crc="269548207" ref="index"/>
+    <file name="logo mais novo que tudo23-u24694.png" crc="4036883120" ref="index"/>
+    <file name="logo mais novo que tudo23-u24706.png" crc="138340804" ref="index"/>
+    <file name="u24792-4.png" crc="3830336904" ref="index"/>
+    <file name="u24708-4.png" crc="429738962" ref="index"/>
+    <file name="u25048-4-a.png" crc="4062206254" ref="index"/>
+    <file name="u24743.png" crc="4181454643" ref="index"/>
+    <file name="u24743-a.png" crc="4181454643" ref="index"/>
+    <file name="u24750.png" crc="73201312" ref="index"/>
+    <file name="u24750-a.png" crc="73201312" ref="index"/>
+    <file name="u24757-4.png" crc="307218338" ref="index"/>
+    <file name="u24789.png" crc="313386589" ref="index"/>
+    <file name="u24789-a.png" crc="313386589" ref="index"/>
+    <file name="u24782-4.png" crc="158270226" ref="index"/>
+    <file name="u24766.png" crc="358766192" ref="index"/>
+    <file name="u24766-a.png" crc="358766192" ref="index"/>
+    <file name="u24772.png" crc="397668405" ref="index"/>
+    <file name="u24772-a.png" crc="397668405" ref="index"/>
+    <file name="bagulho1-u24799.png" crc="3892029966" ref="index"/>
+    <file name="u24700-4.png" crc="4224849845" ref="index"/>
+    <file name="sem título-1-u24698.png" crc="480829068" ref="index"/>
+    <file name="u24709-9.png" crc="4220857264" ref="index"/>
+    <file name="4-u24790.png" crc="402733289" ref="index"/>
+    <file name="u24685-5.png" crc="4136119328" ref="index"/>
+    <file name="brushe-balao-de-fala-pfs-u24731.png" crc="4142023686" ref="index"/>
+    <file name="folha com corte-u24689.png" crc="4080113720" ref="index"/>
+    <file name="leão final-u24703.png" crc="480986763" ref="index"/>
+    <file name="tablet_png8592-u24710.png" crc="348354170" ref="index"/>
+    <file name="paper10-u24712.png" crc="3911180631" ref="index"/>
+    <file name="jogoss-favicon.ico" crc="288646728" ref="jogoss"/>
+    <file name="papernovo-u26076.png" crc="4252975834" ref="jogoss"/>
+    <file name="u26106.png" crc="301280562" ref="jogoss"/>
+    <file name="u26106-a.png" crc="301280562" ref="jogoss"/>
+    <file name="u26081.png" crc="521676971" ref="jogoss"/>
+    <file name="u26081-a.png" crc="521676971" ref="jogoss"/>
+    <file name="u26098.png" crc="4251674368" ref="jogoss"/>
+    <file name="u26098-a.png" crc="4251674368" ref="jogoss"/>
+    <file name="u26094-4.png" crc="335981447" ref="jogoss"/>
+    <file name="u26131.png" crc="4267731610" ref="jogoss"/>
+    <file name="u26131-a.png" crc="4267731610" ref="jogoss"/>
+    <file name="u26139-4.png" crc="158270226" ref="jogoss"/>
+    <file name="u26117.png" crc="3836955746" ref="jogoss"/>
+    <file name="u26117-a.png" crc="3836955746" ref="jogoss"/>
+    <file name="u26123.png" crc="269548207" ref="jogoss"/>
+    <file name="u26123-a.png" crc="269548207" ref="jogoss"/>
+    <file name="logo mais novo que tudo23-u26142.png" crc="4036883120" ref="jogoss"/>
+    <file name="logo mais novo que tudo23-u26144.png" crc="138340804" ref="jogoss"/>
+    <file name="u26210-4.png" crc="3830336904" ref="jogoss"/>
+    <file name="u26211-4.png" crc="429738962" ref="jogoss"/>
+    <file name="u26192.png" crc="4062206254" ref="jogoss"/>
+    <file name="u26192-a.png" crc="4062206254" ref="jogoss"/>
+    <file name="u26186.png" crc="4181454643" ref="jogoss"/>
+    <file name="u26186-a.png" crc="4181454643" ref="jogoss"/>
+    <file name="u26170.png" crc="73201312" ref="jogoss"/>
+    <file name="u26170-a.png" crc="73201312" ref="jogoss"/>
+    <file name="u26178-4.png" crc="307218338" ref="jogoss"/>
+    <file name="u26149.png" crc="313386589" ref="jogoss"/>
+    <file name="u26149-a.png" crc="313386589" ref="jogoss"/>
+    <file name="u26160-4.png" crc="158270226" ref="jogoss"/>
+    <file name="u26202.png" crc="358766192" ref="jogoss"/>
+    <file name="u26202-a.png" crc="358766192" ref="jogoss"/>
+    <file name="u26165.png" crc="397668405" ref="jogoss"/>
+    <file name="u26165-a.png" crc="397668405" ref="jogoss"/>
+    <file name="television-png-29-u26053.png" crc="363653375" ref="jogoss"/>
+    <file name="u26216-5.png" crc="4229019105" ref="jogoss"/>
+    <file name="u26055-4.png" crc="3971816307" ref="jogoss"/>
+    <file name="u26056-4.png" crc="4152302139" ref="jogoss"/>
+    <file name="u26057-4.png" crc="94952057" ref="jogoss"/>
+    <file name="u26058-4.png" crc="360218395" ref="jogoss"/>
+    <file name="276314_papel-de-parede-pista-de-corrida-no-campo_1280x720-crop-u26059.jpg" crc="3762265649" ref="jogoss"/>
+    <file name="tumblr_inline_mliw1lbc651qz4rgp-crop-u26065.jpg" crc="447423789" ref="jogoss"/>
+    <file name="tablet_png8592-u26069.png" crc="348354170" ref="jogoss"/>
+    <file name="brushe-balao-de-fala-pfs-u26046.png" crc="4142023686" ref="jogoss"/>
+    <file name="folha com corte-u26044.png" crc="4080113720" ref="jogoss"/>
+    <file name="leão final-u26049.png" crc="480986763" ref="jogoss"/>
+    <file name="paper10-u26040.png" crc="3911180631" ref="jogoss"/>
+    <file name="papernovo-u26456.png" crc="4252975834" ref="personagenss"/>
+    <file name="u26341.png" crc="301280562" ref="personagenss"/>
+    <file name="u26341-a.png" crc="301280562" ref="personagenss"/>
+    <file name="u26302.png" crc="521676971" ref="personagenss"/>
+    <file name="u26302-a.png" crc="521676971" ref="personagenss"/>
+    <file name="u26316.png" crc="4251674368" ref="personagenss"/>
+    <file name="u26316-a.png" crc="4251674368" ref="personagenss"/>
+    <file name="u26312-4.png" crc="335981447" ref="personagenss"/>
+    <file name="u26337.png" crc="4267731610" ref="personagenss"/>
+    <file name="u26337-a.png" crc="4267731610" ref="personagenss"/>
+    <file name="u26333-4.png" crc="158270226" ref="personagenss"/>
+    <file name="u26323.png" crc="3836955746" ref="personagenss"/>
+    <file name="u26323-a.png" crc="3836955746" ref="personagenss"/>
+    <file name="u26294.png" crc="269548207" ref="personagenss"/>
+    <file name="u26294-a.png" crc="269548207" ref="personagenss"/>
+    <file name="logo mais novo que tudo23-u26466.png" crc="4036883120" ref="personagenss"/>
+    <file name="logo mais novo que tudo23-u26349.png" crc="138340804" ref="personagenss"/>
+    <file name="u26410-4.png" crc="3830336904" ref="personagenss"/>
+    <file name="u26455-4.png" crc="429738962" ref="personagenss"/>
+    <file name="u26386.png" crc="4062206254" ref="personagenss"/>
+    <file name="u26386-a.png" crc="4062206254" ref="personagenss"/>
+    <file name="u26398.png" crc="4181454643" ref="personagenss"/>
+    <file name="u26398-a.png" crc="4181454643" ref="personagenss"/>
+    <file name="u26371.png" crc="73201312" ref="personagenss"/>
+    <file name="u26371-a.png" crc="73201312" ref="personagenss"/>
+    <file name="u26378-4.png" crc="307218338" ref="personagenss"/>
+    <file name="u26356.png" crc="313386589" ref="personagenss"/>
+    <file name="u26356-a.png" crc="313386589" ref="personagenss"/>
+    <file name="u26363-4.png" crc="158270226" ref="personagenss"/>
+    <file name="u26395.png" crc="358766192" ref="personagenss"/>
+    <file name="u26395-a.png" crc="358766192" ref="personagenss"/>
+    <file name="u26406.png" crc="397668405" ref="personagenss"/>
+    <file name="u26406-a.png" crc="397668405" ref="personagenss"/>
+    <file name="grass_field5-1024x1024-crop-u26279.png" crc="267172111" ref="personagenss"/>
+    <file name="u26447-4.png" crc="4158932740" ref="personagenss"/>
+    <file name="brushe-balao-de-fala-pfs-u26351.png" crc="4142023686" ref="personagenss"/>
+    <file name="leão final-u26281.png" crc="480986763" ref="personagenss"/>
+    <file name="tablet_png8592-u26448.png" crc="348354170" ref="personagenss"/>
+    <file name="folha com corte-u26287.png" crc="4080113720" ref="personagenss"/>
+    <file name="paper10-u26346.png" crc="3911180631" ref="personagenss"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="formcadastrar.css" crc="4213532710" ref="phone>formcadastrar"/>
+      <file name="formlogin.css" crc="3949219431" ref="phone>formlogin"/>
+      <file name="perfiljogo.css" crc="254951083" ref="phone>perfiljogo"/>
+      <file name="jogos.css" crc="438517053" ref="phone>jogos"/>
+      <file name="index.css" crc="3876973064" ref="phone>index"/>
+      <file name="compras.css" crc="4247013469" ref="phone>compras"/>
+      <file name="sobre-n_s.css" crc="3786458633" ref="phone>sobre-nós"/>
+    </folder>
+    <file name="jogos.html" crc="387855569" seo="true" mt="1481286910595" redirect="true"/>
+    <file name="sobre-nós.html" crc="88222251" seo="true" mt="1481286889210" redirect="true"/>
+    <file name="compras.html" crc="4171636180" seo="true" mt="1481286935681" redirect="true"/>
+    <file name="formcadastrar.html" crc="500069625" seo="true" mt="1481286961248" redirect="true"/>
+    <file name="formlogin.html" crc="4118217710" seo="true" mt="1481286970709" redirect="true"/>
+    <file name="perfiljogo.html" crc="221011820" seo="true" mt="1481286925577" redirect="true"/>
+    <file name="index.html" crc="3867116010" seo="true" mt="1481287007544" redirect="true"/>
+  </folder>
+  <file name="jogos.html" crc="153642779" seo="true" mt="1481283545079" redirect="true"/>
+  <file name="formcadastrar.html" crc="3782670276" seo="true" mt="1481119413142" redirect="true"/>
+  <file name="formlogin.html" crc="29750988" seo="true" mt="1481119413386" redirect="true"/>
+  <file name="personagens.html" crc="4114754916" seo="true" mt="1481283617318" redirect="true"/>
+  <file name="novidades.html" crc="271877236" seo="true" mt="1481285390385" redirect="true"/>
+  <file name="compras.html" crc="184166255" seo="true" mt="1481151170207" redirect="true"/>
+  <file name="perfiljogo.html" crc="449274841" seo="true" mt="1481155232585" redirect="true"/>
+  <file name="sobre-os-personagens.html" crc="266513404" seo="true" mt="1481283669315" redirect="true"/>
+  <file name="sobre-os-jogos.html" crc="42096757" seo="true" mt="1481283673978" redirect="true"/>
+  <file name="sobre-nós.html" crc="87267124" seo="true" mt="1481148592750" redirect="true"/>
+  <file name="index.html" crc="127977428" seo="true" mt="1481287984832" redirect="true"/>
+  <file name="jogoss.html" crc="529029237" seo="true" mt="1481283545079" redirect="true"/>
+  <file name="personagenss.html" crc="4212154488" seo="true" mt="1481256910401" redirect="true"/>
+</manifest>
